@@ -13,4 +13,4 @@ Buat fungsi untuk menemukan Balanced Bracket dengan kompleksitas paling rendah!
 
 ![task3](https://github.com/aliefhafids/gits-intern/assets/90187518/2f3ea21f-19c6-4bc8-a45a-62ed90d2173b)
 - Berapa ukuran kompleksitas (kerumitan) kodinganmu?
-  Memiliki komplekitas rendah dengan ukuran 4/10, dengan memanfaatkan penggunaan stack dengan konsep perulangan dan kondisi saat melakukan push dan pop pada setiap nilai input. 
+  Memiliki komplekitas rendah dengan ukuran 4/10, dengan memanfaatkan penggunaan stack yang dimana stack / tumpukan merupakan suatu struktur data yang terbentuk dari barisan hingga yang terurut dari satuan data, dan juga dengan konsep perulangan dan kondisi saat melakukan push dan pop pada setiap nilai input. 
